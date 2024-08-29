@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pallavi Bisam</h1>
 <h3 align="center">Hi, I'm Pallavi Bisam! 👋 I’m a Data Analyst and machine learning enthusiast, actively building and refining projects on GitHub every day.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?sca_esv=a6fc415fd86f1d92&sxsrf=ADLYWILNMiPfsRNjl2-IrsoxdhSoRIo4vg:1724961647225&q=animated+coding+gif&udm=2&fbs=AEQNm0AbzhUJjXv6jRup8eVc0BvPyH5PazCaW205cG-Bd0in0SeU-Q4GVbDidOCCAlv8ddz_JDlkDHfHwu6ZdNN2gK7iwmPflMjTXNE3D4dG3cbrOMDQrnWSsU6RvHlEmGRBnAnMAlHnz3xRrbK4M8X4srFODSqdUZVCRe7vOOzf8sHLjphIY6p9icO56TGuTeuuo6mCHRdd5IqyoS0WoZg1jPxo6Gzlpg&sa=X&sqi=2&ved=2ahUKEwjTrO_x_pqIAxVKlIkEHQ1FLY8QtKgLegQIGhAB&biw=1536&bih=730&dpr=1.25#vhid=WrcH7DaEqebDOM&vssid=mosaic">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bisampi07](https://github.com/Bisampi07)
 

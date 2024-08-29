@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pallavi Bisam</h1>
 <h3 align="center">Hi, I'm Pallavi Bisam! 👋 I’m a Data Analyst and machine learning enthusiast, actively building and refining projects on GitHub every day.</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 - 👨‍💻 All of my projects are available at [https://github.com/Bisampi07](https://github.com/Bisampi07)
 
 - 📫 How to reach me **iampallavibisam77@gmail.com**

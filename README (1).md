@@ -1,4 +1,4 @@
-https://github.com/Bisampi07/myprofile/blob/main/github-header-image.png
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Pallavi Bisam</h1>
 <h3 align="center">Hi, I'm Pallavi Bisam! 👋 I’m a Data Analyst and machine learning enthusiast, actively building and refining projects on GitHub every day. I’ve led projects that improved operational efficiency by 25% and boosted predictive accuracy by 30%. I’m passionate about leveraging cutting-edge technologies to solve complex problems and deliver impactful results.</h3>
 

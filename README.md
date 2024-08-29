@@ -1,3 +1,4 @@
+![Logo](https://github.com/Bisampi07/myprofile/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Pallavi Bisam</h1>
 <h3 align="center">Hi, I'm Pallavi Bisam! 👋 I’m a Data Analyst and machine learning enthusiast, actively building and refining projects on GitHub every day.</h3>
 

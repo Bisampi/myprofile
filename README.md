@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pallavi Bisam</h1>
 <h3 align="center">Hi, I'm Pallavi Bisam! 👋 I’m a Data Analyst and machine learning enthusiast, actively building and refining projects on GitHub every day.</h3>
 
-- 🌱 I’m currently learning **Databricks with Azure**
+- 🌱 I’m currently learning **Exploring Large Language Models and Gaining Expertise in Retrieval-Augmented Generation (RAGs)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bisampi07](https://github.com/Bisampi07)
 
